@@ -3,7 +3,7 @@
 2. C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\bob fix bob.py
 3. C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\check_thing fix getdata.ps1 what to fix:
 ````powershell
-   At C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\check_thing\getdata.ps1:160 char:68
+At C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\check_thing\getdata.ps1:160 char:68
 + ...  = "Disk"; value = "$($d.Model) â€” $sizeGb$iface"; inline = $true })
 +                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Unexpected token '$sizeGb$iface"; inline = $true })
