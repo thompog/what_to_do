@@ -2,7 +2,7 @@
 1. C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\DBBS\ make into exe
 2. C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\bob fix bob.py
 3. C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\check_thing fix getdata.ps1 what to fix:
-   ´´´´At C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\check_thing\getdata.ps1:160 char:68
+   ```At C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\check_thing\getdata.ps1:160 char:68
 + ...  = "Disk"; value = "$($d.Model) â€” $sizeGb$iface"; inline = $true })
 +                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Unexpected token '$sizeGb$iface"; inline = $true })
@@ -62,7 +62,8 @@ At C:\Users\thoma\OneDrive\Skrivebord\mooooooooooooooooooooook\dd\check_thing\ge
 Unexpected token 'Logical' in expression or statement.
 Not all parse errors were reported.  Correct the reported errors and try again.
     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
-    + FullyQualifiedErrorId : UnexpectedToken´´´´
+    + FullyQualifiedErrorId : UnexpectedToken
+```
 
 
 
