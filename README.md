@@ -70,10 +70,10 @@ Not all parse errors were reported.  Correct the reported errors and try again.
 
 
 # file ideas
-1. batch file get public adr Troll say sorry after Trolling
-2. try to learn how a worm works then make one test with laptops
-3. python file witch uses getpass.getpass() to try to get password (kinda like gaslight) then get some data then send it over
-4. try to make a backdoor with python/exe (no installer)
+1. try to learn how a worm works then make one test with laptops
+2. python file witch uses getpass.getpass() to try to get password (kinda like gaslight) then get some data then send it over
+3. try to make a backdoor with python/exe (no installer)
+
 
 
 
